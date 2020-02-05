@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "vuela_tours/static/js/main.5aa9b8d3.chunk.js",
+    "main.js.map": "vuela_tours/static/js/main.5aa9b8d3.chunk.js.map",
+    "runtime-main.js": "vuela_tours/static/js/runtime-main.9063534e.js",
+    "runtime-main.js.map": "vuela_tours/static/js/runtime-main.9063534e.js.map",
+    "static/js/2.4cfd9ed5.chunk.js": "vuela_tours/static/js/2.4cfd9ed5.chunk.js",
+    "static/js/2.4cfd9ed5.chunk.js.map": "vuela_tours/static/js/2.4cfd9ed5.chunk.js.map",
+    "index.html": "vuela_tours/index.html",
+    "precache-manifest.2848bb62ee9e0bc8e415cb7f80526148.js": "vuela_tours/precache-manifest.2848bb62ee9e0bc8e415cb7f80526148.js",
+    "service-worker.js": "vuela_tours/service-worker.js",
+    "static/js/2.4cfd9ed5.chunk.js.LICENSE": "vuela_tours/static/js/2.4cfd9ed5.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9063534e.js",
+    "static/js/2.4cfd9ed5.chunk.js",
+    "static/js/main.5aa9b8d3.chunk.js"
+  ]
+}
